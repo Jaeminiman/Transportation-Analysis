@@ -9,5 +9,4 @@ personal traffic jam analysis in transfer by using smart card data
 ### 지도 교수
 서울대학교 건설환경공학부 교통계획-물류연구실 이동규 교수님  
 
-[ paper ]  : [자율연구보고서 최종.pdf](https://github.com/Jaeminiman/Transportation-Analysis/files/11108819/default.pdf)  
-
+[ paper ]  : Uploaded in code
